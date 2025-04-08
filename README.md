@@ -1,5 +1,6 @@
-# IOT-YOLO-Project
-## :ocean::ocean::ocean::ocean:Team10 : Boat Detection & Prediction System:ocean::ocean::ocean::ocean:
+# maritime reconnaissance system
+## 해상정찰 시스템(AI)
+## :ocean::ocean::ocean::ocean: Boat Detection & Prediction System:ocean::ocean::ocean::ocean:
 
 ### :file_folder::file_folder:Archive:file_folder::file_folder:
 
@@ -9,15 +10,10 @@
 
 3. DATASETS
 - DOWNLOAD :: https://drive.google.com/file/d/1s3YDJKxYaUa-Hg_Ek_4feq5ohTH9w_5W/view
-
-
 - ROBOFLOW ::
    - Aerial 1&2 : https://universe.roboflow.com/public-1tecx/boat-detection-bzj6m/dataset/1 
    - Boat 1 : https://universe.roboflow.com/boats-hu0jt/boat-tracking-model/browse?queryText=&pageSize=50&startingIndex=0&browseQuery=true
    - Boat 2 : https://universe.roboflow.com/shipdataset3-3prli/shipdata-a4ucj/dataset/9
-
-4. VIDEOS
-DOWNLOAD :: https://drive.google.com/drive/folders/1ETkO5a3iNDmgbmBCXtDy2OGK1IWTmSWP
 
 
 ### PROJECT WORKFLOW
